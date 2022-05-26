@@ -12,3 +12,10 @@
 # Dinamico = Muestra los errores de tipado en tiempo de ejecucion
 #  python
 # Fuerte = trata de manera muy fuerte el tipo de datos
+
+# git init
+# git add README.md
+# git commit -m "first commit"
+# git branch -M main
+# git remote add origin https://github.com/ecrux/python_other.git
+# git push -u origin main
